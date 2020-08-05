@@ -1,7 +1,9 @@
-# Hello1 👋
+# Hello! 👋
 
 ### I am a Computer Science Student at Texas A&M Unversity - San Antonio
-<hr>
+
+***
+
 #### Currently seeking Co-Op and Internship opportunities.
 
 - 🔭 I’m currently working on a Node.js and E.js Website project for our ACM Student Chapter
