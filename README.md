@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hello1 👋
+
+### I am a Computer Science Student at Texas A&M Unversity - San Antonio
 
 <!--
 **lfbox7/lfbox7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
