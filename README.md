@@ -1,6 +1,10 @@
 # Hello1 👋
 
 ### I am a Computer Science Student at Texas A&M Unversity - San Antonio
+<hr>
+#### Currently seeking Co-Op and Internship opportunities.
+
+- 🔭 I’m currently working on a Node.js and E.js Website project for our ACM Student Chapter
 
 <!--
 **lfbox7/lfbox7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
