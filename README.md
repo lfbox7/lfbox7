@@ -34,7 +34,9 @@
 
 
 <!--
+
 **lfbox7/lfbox7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://rahuldkjain.github.io/gh-profile-readme-generator/  => need to update icon links: https://github.com/rahuldkjain/github-profile-readme-generator/tree/master/src/images/icons/Social
 
 Here are some ideas to get you started:
 
@@ -46,4 +48,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 👨‍💻 All of my projects are available at
+- 📝 I regularly write articles on
+- 📄 Know about my experiences
+
 -->
