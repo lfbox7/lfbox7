@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/leonard-box" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg" alt="leonard-box" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/lbox1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/src/images/icons/Social/leet-code.svg" alt="lbox1" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/lbox1" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/leet-code.svg" alt="lbox1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
