@@ -19,6 +19,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/leonard-box" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg" alt="leonard-box" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/lbox1" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/leet-code.svg" alt="lbox1" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/lfbox7" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/hackerrank.svg" alt="lfbox7" height="30" width="40" /></a>
+<a href="https://dev.to/lfbox7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="lfbox7" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
