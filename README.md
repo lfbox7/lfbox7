@@ -6,9 +6,10 @@
 
 #### Currently seeking Co-Op and Internship opportunities.
 
-- 🔭 I’m currently working on a data science project focusing on tweets using financial hashtags.
-- 🌱 I’m currently learning python, data science, software testing methods, and computer security measures.
-- 💬 Ask me about my school's Association for Computing Machinery Student Chapter which I chair.
+- ⚡ I’m currently taking part in an SWE Internship with Walmart eCommerce
+- 🌱 I’m currently learning Typescript to use with React
+- 🔭 I’m currently working on a data science project focusing on tweets using financial hashtags
+- 💬 Ask me about my school's Association for Computing Machinery Student Chapter, which I chair
 
 <!--
 **lfbox7/lfbox7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
