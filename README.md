@@ -4,11 +4,11 @@
 
 ***
 
-#### Currently seeking Co-Op and Internship opportunities.
+#### Currently seeking Recent Graduate and other entry-level opportunities.
 
-- ⚡ I’m currently taking part in an SWE Internship with Walmart eCommerce
-- 🌱 I’m currently learning Typescript to use with React
-- 🔭 I’m currently working on a data science project focusing on tweets using financial hashtags
+- ⚡ I’m currently taking part in a Systems Test Engineer Internship with Itron
+- 🌱 I’m currently learning how to unit test and mock the backend of my MERN project
+- 🔭 I’m currently working on a MERN Stack project to showcase my work
 - 💬 Ask me about my school's Association for Computing Machinery Student Chapter, which I chair
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lfbox7&label=Profile%20views&color=0e75b6&style=flat" alt="lfbox7" /> </p>
