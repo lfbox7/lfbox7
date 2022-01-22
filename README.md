@@ -13,6 +13,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lfbox7&label=Profile%20views&color=0e75b6&style=flat" alt="lfbox7" /> </p>
 
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=lfbox7&theme=dark)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lfbox7" alt="lfbox7" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
