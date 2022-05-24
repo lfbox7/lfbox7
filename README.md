@@ -6,9 +6,11 @@
 
 #### Currently working as a Software Development Engineer.
 
-- ⚡ I’m currently taking part in a Systems Test Engineer Internship with Itron
-- 🌱 I’m currently learning how to unit test and mock the backend of my MERN project
-- 🔭 I’m currently working on a MERN Stack project to showcase my work
+- ⚡ I’m currently a software development engineer 1 at Amazon
+- 🌱 I’m currently in the midst of Clean Code: A Handbook of Agile Software Craftsmanship by Uncle Bob Martin
+- 🔭 I’m currently working Java tutorials for my Alumni Association's student tutorial program
+- 💬 Ask me about being a mentor for CodePath.org's Technical Interview Prep course
+- ⚡ Fun fact: I wrote my first line of code at 45 years old
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lfbox7&label=Profile%20views&color=0e75b6&style=flat" alt="lfbox7" /> </p>
 
@@ -52,5 +54,4 @@ Here are some ideas to get you started:
 - 👨‍💻 All of my projects are available at
 - 📝 I regularly write articles on
 - 📄 Know about my experiences
-
 -->
