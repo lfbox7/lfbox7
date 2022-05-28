@@ -1,6 +1,6 @@
 # Hello! 👋
 
-### I am a former Computer Science Student at Texas A&M Unversity - San Antonio
+### I am a Software Development Engineer at Amazon and an alumni of the Texas A&M Unversity - San Antonio Computer Science program
 
 ***
 
